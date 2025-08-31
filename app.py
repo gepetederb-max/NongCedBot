@@ -18,7 +18,7 @@ st.set_page_config(
 
 # -------------------- LOAD LOGO --------------------
 # ใช้พาธจริงของคุณ
-LOGO_PATH = "C:/Users/p/Documents/ChatBot/ChatBotCED/workaw_chatbot/NongCedBot/NongCedBot/assets/ced-logo.jpg"
+LOGO_PATH = "ced-logo.jpg"
 
 def _img_as_base64(path: str) -> str:
     try:
